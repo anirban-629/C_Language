@@ -28,7 +28,7 @@ Here all the codes are written in Python and also there are some projects of DJA
         - **The above command may change** in future so please check in the website it's available there.
      4. Click windows button and type env and then open environment variable
      5. now you've to find mingw file in that drive where mss were installed and there go inside the bin folder and copy it.
-     6. Inside environment variable click to edit and add new and paste the path there
+     6. Inside environment variable select path in the user /system(all users) variable click to edit and add new and paste the path there;
      7. Open Command Prompt and write 'gcc' if youre getting and **fatal** error then your gcc is runnign properly or if not running just go to this [youtube](https://www.youtube.com/results?search_query=how+to+configure+msys2) link or search how to configure msys2 for c/c++.
 
 <br>
