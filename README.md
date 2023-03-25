@@ -8,13 +8,8 @@
 
 A collection of practice code files for C Programming Language.
 
-- [Technology](#technology)
 - [Setup](#setup)
 - [Usage](#usage)
-
-## **Technology**
-
-Here all the codes are written in Python and also there are some projects of DJANGO, Voice_Assitant etc.
 
 ## **Setup**
 
