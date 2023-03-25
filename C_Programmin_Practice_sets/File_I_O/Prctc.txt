@@ -1,0 +1,3 @@
+This_is_my_practice_set
+what_are_you_doing
+Here I'm appending content in file

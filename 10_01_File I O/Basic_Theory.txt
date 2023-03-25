@@ -1,0 +1,15 @@
+There are basically two types of files --->>
+
+1. Text files
+abc1.txt
+abc2.doc
+abc3.c
+abc4.cpp
+
+2. Binary files
+abc1.exe
+abc2.exe
+abc3.exe
+abc4.exe
+
+This is
